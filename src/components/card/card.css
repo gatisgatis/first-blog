@@ -1,0 +1,40 @@
+.card {
+    width: 100%;
+    padding: 10px;
+    background-color: lightgrey;
+    cursor: pointer;
+}
+
+.card__img-wrapper {
+    position: relative;
+    padding-top: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+.img {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+}
+
+.card__title {
+    text-align: center;
+}
+
+.card__icon {
+
+}
+
+.card__author {
+
+}
+
+.card__text {
+
+}
+
+.card__title::after {
+    content: '*'
+}
