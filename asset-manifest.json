@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/first-blog/static/css/main.037feb6a.chunk.css",
+    "main.js": "/first-blog/static/js/main.0399703d.chunk.js",
+    "main.js.map": "/first-blog/static/js/main.0399703d.chunk.js.map",
+    "runtime-main.js": "/first-blog/static/js/runtime-main.b0d824dc.js",
+    "runtime-main.js.map": "/first-blog/static/js/runtime-main.b0d824dc.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/first-blog/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.694ce5b3.chunk.js": "/first-blog/static/js/2.694ce5b3.chunk.js",
+    "static/js/2.694ce5b3.chunk.js.map": "/first-blog/static/js/2.694ce5b3.chunk.js.map",
+    "static/js/3.3277d958.chunk.js": "/first-blog/static/js/3.3277d958.chunk.js",
+    "static/js/3.3277d958.chunk.js.map": "/first-blog/static/js/3.3277d958.chunk.js.map",
+    "index.html": "/first-blog/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/first-blog/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.037feb6a.chunk.css.map": "/first-blog/static/css/main.037feb6a.chunk.css.map",
+    "static/js/2.694ce5b3.chunk.js.LICENSE.txt": "/first-blog/static/js/2.694ce5b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0d824dc.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.694ce5b3.chunk.js",
+    "static/css/main.037feb6a.chunk.css",
+    "static/js/main.0399703d.chunk.js"
+  ]
+}
