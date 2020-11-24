@@ -1,0 +1,23 @@
+.margin-bottom--10 {
+    margin-bottom: 10px;
+  }
+  
+  .margin-bottom--30 {
+    margin-bottom: 30px;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  
+  .space--between {
+    justify-content: space-between;
+  }
+  
+  .center-xs {
+    justify-content: center;
+  }
+
+  .w100 {
+      width: 100%;
+  }

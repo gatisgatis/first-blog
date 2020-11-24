@@ -1,0 +1,25 @@
+.gal__img-wrapper {
+    display: flex;
+    width: 80%;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    padding-top: 60%;
+    overflow: hidden;
+    position: relative;
+}
+
+.gal-img {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    z-index: 2;
+}
+
+.gal__btns {
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
