@@ -32,8 +32,11 @@ const Blog = () => {
       const newComment = `${new Date().toLocaleDateString("en-US")}: ${name}: ${
         info.text
       }`;
-      
-      localStorage.setItem(`comments-${id}`, JSON.stringify([...comments, newComment]));
+
+      localStorage.setItem(
+        `comments-${id}`,
+        JSON.stringify([...comments, newComment])
+      );
       setComments([...comments, newComment]);
     }
     return { name: "", text: "" };
